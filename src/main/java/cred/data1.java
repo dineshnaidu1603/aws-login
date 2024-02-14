@@ -3,7 +3,7 @@ package cred;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-
+//dinesh//
 public class data1 {
     Connection con;
     data1() throws SQLException, ClassNotFoundException {
